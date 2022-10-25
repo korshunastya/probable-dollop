@@ -18,8 +18,6 @@ using OxyPlot.Series;
 using OxyPlot;
 using System.Security.Cryptography.X509Certificates;
 
-//TestFirst
-
 namespace Integral
 {
     public partial class MainWindow : Window
