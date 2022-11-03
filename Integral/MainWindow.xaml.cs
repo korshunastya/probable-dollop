@@ -33,7 +33,7 @@ namespace Integral
             y[0].Add(0);
         }
 
-        public void tbCalculate_Click(object sender, RoutedEventArgs e)
+        public void tbCalculate_Click(object sender, RoutedEventArgs e) //обработка нажатия на кнопку
         {
             double b = Convert.ToDouble(tbUpper.Text);
             double a = Convert.ToDouble(tbLower.Text);
